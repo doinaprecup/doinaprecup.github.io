@@ -8,6 +8,10 @@ main:
 
   - title: "Research"
     url: /research/
+    
+    
+ - title: "Students"
+    url: /students/
 
   - title: "Teaching"
     url: /teaching/    
@@ -15,6 +19,6 @@ main:
   - title: "Service"
     url: /service/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Bio"
+    url: /bio/
     
