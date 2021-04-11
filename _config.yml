@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Doina Precup"
   avatar           : "profile.png"
-  bio              : "I hold a Canada-CIFAR AI Chair at McGill University and Mila, the Quebec AI institute. I am also a Princcipla Scientist at DeepMind, where I lead the Montreal research team. "
+  bio              : "Canada-CIFAR AI Chair at <a href="http://cs.mcgill.ca>McGill University</a>  and Mila, the Quebec AI institute. I am also a Princcipla Scientist at DeepMind, where I lead the Montreal research team. "
   location         : "Montreal, QC, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
