@@ -6,18 +6,18 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Research"
-    url: /research/
+ # - title: "Research"
+ #   url: /research/
     
- - title: "Students"
-    url: /students/
+ # - title: "Students"
+  #  url: /students/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Service"
-    url: /service/
+ # - title: "Service"
+ #   url: /service/
     
-  - title: "Bio"
-    url: /bio/
+  - title: "CV"
+    url: /cv/
     
