@@ -12,7 +12,7 @@ I currently share my time between the [School of Computer Science](http://www.cs
 
 My research is in the field of artificial intelligence and machine learning, with a special focus on reinforcement learning. I am especially interested in understanding how to use reinforcement leanring in order to build general-purpose AI agents, who can learn the right level of abstraction to represent and reason about their environment. I am also interested in applications of AI and machine learning in practice, with a focus on medicine. 
 
-I also want to do my part to ensure that AI is developed in an equitable and inclusive way. for this purpose, I have co-founded the [AI4Good summer lab](https://www.ai4goodlab.com/).
+I also want to do my part to ensure that AI is developed in an equitable and inclusive way. For this purpose, I have co-founded the [AI4Good lab](https://www.ai4goodlab.com/), which aims to improve the participation of women in machine learning, as well as the [Eastern European Machine Learning Summer School (EEML](https://www.eeml.eu), which aims to popularise machine learning more broadly in Eastern Europe, and to encourage cutting-edge research in this field.
 
 
 
