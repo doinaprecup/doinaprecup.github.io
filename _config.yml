@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Doina Precup"
+title                    : "Doina-Precup"
 title_separator          : "-"
 name                     : &name "Doina Precup"
 description              : &description "personal description"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/doina-precup-1ba61314/"
+  linkedin         : "http://www.linkedin.com/in/doina-precup-1ba61314/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://en.wikipedia.org/wiki/Doina_Precup"
+  wikipedia        : "http://en.wikipedia.org/wiki/Doina_Precup"
 
 
 # Reading Files
