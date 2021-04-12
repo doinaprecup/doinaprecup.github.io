@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 #twitter:
 #  username               : &twitter
-#facebook:
+# facebook:
 #  username               :
 #  app_id                 :
 #  publisher              :
@@ -81,12 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Doina Precup"
-  avatar           : "profile.png"
+  avatar           : "doina.png"
   bio              : "Canada-CIFAR AI Chair at McGill University and Mila, the Quebec AI institute. Principal Scientist at DeepMind, leading the Montreal research team."
   location         : "Montreal, QC, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/~dprecup"
+  dblp             : "https://dblp.org/pid/p/DoinaPrecup.html"
   email            : "dprecup@cs.mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "doinaprecup"
+  github           : # "doinaprecup"
   google_plus      :
   keybase          :
   instagram        :
@@ -114,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://en.wikipedia.org/wiki/Doina_Precup"
 
 
 # Reading Files
