@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/
 venue: "McGill University"
-date: 2018-2020
+# date: 2018-2020
 location: "Montreal, Canada"
 ---
 
