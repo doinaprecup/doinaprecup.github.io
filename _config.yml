@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=j54VcVEAAAAJ&hl=en"
   email            : "dprecup@cs.mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://dblp.org/pid/p/DoinaPrecup.html"
+  uri              : # "https://dblp.org/pid/p/DoinaPrecup.html"
   bitbucket        :
   codepen          :
   dribbble         :
